@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="45px" viewBox="0 0 50 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AM" transform="translate(-287.000000, -1267.000000)" stroke="#4E4D4D">
+            <g id="Group-7" transform="translate(288.000000, 1268.000000)">
+                <path d="M23.8331636,9.55483636 L23.8331636,31.1701091" id="Stroke-5"></path>
+                <polyline id="Stroke-6" points="41.7280727 31.1698909 41.7280727 20.8418909 5.81825455 20.8418909 5.81825455 31.1698909"></polyline>
+                <polygon id="Fill-1" fill="#00D7FF" points="18.0152727 11.6363636 29.6516364 11.6363636 29.6516364 0 18.0152727 0"></polygon>
+                <polygon id="Fill-2" fill="#00D7FF" points="17.9549091 42.8065455 29.5912727 42.8065455 29.5912727 31.1701818 17.9549091 31.1701818"></polygon>
+                <polygon id="Fill-3" fill="#00D7FF" points="35.9098182 42.8065455 47.5461818 42.8065455 47.5461818 31.1701818 35.9098182 31.1701818"></polygon>
+                <polygon id="Fill-4" fill="#00D7FF" points="0 42.8065455 11.6363636 42.8065455 11.6363636 31.1701818 0 31.1701818"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

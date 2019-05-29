@@ -1,0 +1,84 @@
+.dnc-resolve-dialog {
+  .el-dialog {
+    width: 900px;
+    max-height: 560px;
+    overflow: auto;
+
+    .el-dialog__header {
+      height: 55px;
+    }
+
+    .el-dialog__body {
+      transition: height .3s;
+    }
+
+    .dnc-dialog-title {
+      .step {
+        font-size: $fontSizeHead;
+        color: $textColorBody;
+        font-weight: $fontWeight;
+      }
+    }
+
+    .el-dialog__headerbtn {
+      display: none;
+    }
+
+  }
+
+  .el-dialog__body {
+    position: relative;
+    padding: 0;
+
+    &::before {
+      content: ' ';
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 52px;
+      height: 1px;
+      background-color: rgba(0, 0, 0, 0.09);
+      z-index: 2;
+    }
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .dnc-resolve-dialog {
+    .el-dialog {
+      max-height: 720px;
+    }
+  }
+}
+
+/* 表格标题加 * */
+.create-device-table {
+  padding-bottom: 0;
+
+  th:nth-child(2), th:nth-child(3), th:nth-child(5) {
+    position: relative;
+
+    &::before {
+      content: '*';
+      position: absolute;
+      top: 10px;
+      left: 60px;
+      width: 10px;
+      height: 10px;
+      color: #F5222D;
+    }
+  }
+
+  th:nth-child(5) {
+    position: relative;
+
+    &::before {
+      left: 35px;
+    }
+  }
+
+  .el-table td {
+    border-right: 1px solid #E8E8E8;
+    border-bottom: 1px solid #E8E8E8;
+  }
+}

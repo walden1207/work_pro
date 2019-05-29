@@ -1,0 +1,140 @@
+.create-device {
+  box-shadow: 0 1px 6px 0 rgba(201, 201, 201, 0.4);
+  border-radius: 3px;
+  border: 1px solid $borderColor;
+  margin: 24px;
+}
+
+.title-container {
+  display: flex;
+  justify-content: space-between;
+
+  .create-title {
+    display: flex;
+    align-items: center;
+
+    .question-icon {
+      width: 20px;
+      height: 20px;
+      margin-left: 16px;
+    }
+  }
+
+  .button {
+    width: 100px;
+    height: 32px;
+    line-height: 32px;
+    font-size: $fontSizeBody;
+    font-weight: $fontWeight;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .plus-icon {
+      margin-right: 4px;
+    }
+  }
+}
+
+.table-container {
+
+  .protocol-cell {
+    color: $activeColorMenu;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  .protocol-cell, .item-cell {
+
+    .label {
+      position: relative;
+      padding: 5px 0;
+      color: $activeColorMenu;
+      cursor: pointer;
+    }
+  }
+
+  .operate-cell {
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    .edit-icon {
+      width: 16px;
+      height: 16px;
+      margin-right: 20px;
+    }
+
+    .edit-icon, .delete-icon {
+      cursor: pointer;
+    }
+  }
+}
+
+.cancel-save-container {
+  padding: 36px;
+  text-align: center;
+
+  .button-plain, .button {
+    font-size: $fontSizeBody;
+    width: 70px;
+    padding: 0 15px;
+    text-align: center;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 4px;
+  }
+
+  .button-plain {
+    margin-right: 10px;
+    border: 1px solid $borderColorBox;
+  }
+
+  .button {
+    border: 1px solid transparent;
+  }
+}
+
+$transitionDuration: 300ms;
+.slide-left-enter-active {
+  transition: transform $transitionDuration, opacity $transitionDuration, hight $transitionDuration;
+}
+
+.slide-left-leave-active {
+  transition: transform $transitionDuration, opacity $transitionDuration;
+  overflow: hidden;
+}
+
+.slide-left-enter, .slide-left-leave-to {
+  height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  opacity: 0;
+  transform: translateX(100%) scale(0);
+}
+
+.slide-left-leave-to {
+  transform: translateX(-100%) scale(0);
+}
+
+.slide-right-enter-active {
+  transition: transform $transitionDuration, opacity $transitionDuration, hight $transitionDuration;
+}
+
+.slide-right-leave-active {
+  transition: transform $transitionDuration, opacity $transitionDuration;
+  overflow: hidden;
+}
+
+.slide-right-enter, .slide-right-leave-to {
+  height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  opacity: 0;
+  transform: translateX(-100%) scale(0);
+}
+
+.slide-right-leave-to {
+  transform: translateX(100%) scale(0);
+}
+

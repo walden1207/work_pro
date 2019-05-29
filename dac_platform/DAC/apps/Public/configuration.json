@@ -1,0 +1,57 @@
+{
+
+         "configuration": [{
+                "type": "mysql",
+                "properties": {
+                        "host": "192.168.6.111",
+                        "database": "dac444",
+                        "username": "root",
+                        "password": "django",
+                        "port": "3306"
+                }
+        },{
+                "type": "redis",
+                "properties": {
+                        "host": "192.168.6.111",
+                        "database": "dac",
+                        "username": "root",
+                        "password": "",
+                        "port": "6379"
+                }
+        },{
+                "type": "kafka",
+                "properties": {
+                        "brokerList": "172.19.253.160:9097,172.19.253.160:9092",
+                        "brokerTopic": "kafka_request_re",
+                        "consumerNum": "2",
+                        "password": ""
+                }
+        },{
+                "type": "tsdb",
+                "properties": {
+                        "host": "172.19.253.188",
+                        "port": "8766",
+                        "username": "root",
+                        "password": ""
+                }
+        },{
+                "type": "mqtt",
+                "properties": {
+                        "brokerList": "192.168.6.111",
+                        "port": "1883",
+                        "startTopic": "0",
+                        "endTopic": "20",
+                        "username": "admin",
+                        "password": "public"
+                }
+        },{
+                "type": "am",
+                "properties": {
+                "host": "rm-uf6cakdt1g7myc94dco.mysql.rds.aliyuncs.com",
+                        "port": "3306",
+                        "database": "am",
+                        "username": "zhanwan",
+                        "password": "zhanwan@6"
+                }
+        }]
+}

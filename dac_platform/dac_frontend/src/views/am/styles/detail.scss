@@ -1,0 +1,121 @@
+.name-wrapper {
+  position: relative;
+  margin-top: 11px;
+  padding: 0 21px 0 24px;
+
+  img {
+    width: 100%;
+  }
+}
+
+.name-box {
+  position: absolute;
+  left: 58px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .name {
+    line-height: 40px;
+    font-size: 28px;
+    font-weight: $fontWeightBolder;
+    color: $whiteColor;
+    z-index: 2;
+
+    &.en {
+      font-weight: $fontWeight;
+    }
+  }
+}
+
+.content-wrapper {
+  padding: 24px 81px 66px 84px;
+}
+
+.download-area {
+  .button {
+    width: 116px;
+    height: 32px;
+    line-height: 32px;
+    font-weight: $fontWeight;
+  }
+
+  .model-link {
+    margin-left: 16px;
+    color: $activeColor;
+    height: 20px;
+    line-height: 20px;
+  }
+}
+
+.example-area {
+  margin-bottom: 8px;
+
+  &:nth-child(2) {
+    margin-top: 40px;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.example-title {
+  padding: 12px 24px;
+  font-size: $fontSizeBolder;
+  font-weight: $fontWeightBolder;
+  color: $textColorTitle;
+  border: 1px solid $borderColor;
+  border-radius: 4px;
+  cursor: pointer;
+
+  .example-icon {
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    background-color: $activeColor;
+    color: $whiteColor;
+    border-radius: 100%;
+    margin-right: 16px;
+    transition: transform .4s;
+  }
+}
+
+.example-content {
+  border: 1px solid $borderColor;
+  border-top: none;
+  border-radius: 0 0 4px 4px;
+  font-size: $fontSizeHead;
+  font-weight: $fontWeight;
+  color: $textColorBody;
+  background: $tableHoverColor;
+  padding: 64px;
+}
+
+.example-area.open {
+  .example-title {
+    border-radius: 4px 4px 0 0;
+
+    .example-icon {
+      transform: rotate(180deg);
+    }
+  }
+}
+
+.down-fade-enter-active, .down-fade-leave-active {
+  transition: 400ms;
+}
+
+.down-fade-enter, .down-fade-leave-to {
+  height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  opacity: 0;
+  transform: translateY(-20%);
+}
+.down-fade-leave-to {
+  transform: translateY(20%);
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_yes</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login-input" transform="translate(-1472.000000, -511.000000)" fill="#52C41A">
+            <g id="Group-2" transform="translate(1109.000000, 200.000000)">
+                <path d="M375.883,314.403 C372.838,316.3515 370.6315,318.8025 369.637,320.0375 L367.2115,318.05 L366.136,318.95 L370.331,323.4075 C371.0565,321.4775 373.3445,317.7025 376.139,315.0205 L375.883,314.403 Z M371,327 C366.582,327 363,323.4185 363,319 C363,314.5815 366.582,311 371,311 C375.4185,311 379,314.5815 379,319 C379,323.4185 375.4185,327 371,327 Z" id="icon_yes"></path>
+            </g>
+        </g>
+    </g>
+</svg>

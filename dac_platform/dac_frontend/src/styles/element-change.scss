@@ -1,0 +1,638 @@
+/**** table ****/
+$paddingH: 8px;
+$paddingV: 6px;
+
+.table-container {
+  padding: 0 24px 24px 24px;
+
+  .el-table__body-wrapper {
+    &::-webkit-scrollbar {
+      width: 4px;
+      height: 4px;
+    }
+
+    /* 滚动条里面小方块 */
+    &::-webkit-scrollbar-thumb {
+      border-radius: 5px;
+      background-color: rgba(144, 147, 153, .3);
+    }
+
+    /* 滚动条里面轨道 */
+    &::-webkit-scrollbar-track {
+      border-radius: 0;
+      background-color: rgba(144, 147, 153, .1);
+    }
+  }
+
+  .el-table {
+    border-radius: 0 0 4px 4px;
+    border-bottom: 1px solid $borderColorTable;
+  }
+
+  .el-table th {
+    background-color: #FAFAFA;
+  }
+
+  /* 鼠标悬停的 row */
+  .el-table--enable-row-hover .el-table__body tr:hover > td {
+    background-color: $tableHoverColor;
+  }
+
+  .el-table--striped .el-table__body tr.el-table__row--striped td {
+    background: $tableHoverColor;
+  }
+
+  /* 选中的 row */
+  .el-table__body tr.current-row > td {
+    background-color: $tableHoverColor;
+  }
+
+  .el-table td, .el-table th {
+    padding: $paddingV 0;
+  }
+
+  .el-table th > .cell, .el-table td > .cell {
+    /*height: 28px;*/
+    line-height: 28px;
+
+
+    color: $textColorBody;
+    padding-left: $paddingH;
+  }
+
+  .el-table th > .cell {
+    font-weight: $fontWeightBolder;
+  }
+
+  .el-table td:first-child .cell, .el-table th:first-child .cell {
+    padding-left: $paddingH;
+  }
+
+  .el-table .caret-wrapper {
+    height: 18px;
+    width: 18px;
+  }
+
+  .el-table .sort-caret {
+    border-width: 4px;
+  }
+
+  .el-table td {
+    border-bottom: 1px solid transparent;
+    border-right: 2px solid $borderColorTable;
+  }
+
+  .el-table tr > td:last-child {
+    border-right: none;
+  }
+
+  .el-table__empty-text {
+    color: $textColorBody;
+  }
+
+  &.inside-table {
+    .el-table {
+      border-radius: 4px;
+      border: 1px solid #E8E8E8;
+      border-bottom: none;
+    }
+
+    .el-table th {
+      background-color: $whiteColor;
+    }
+
+    .el-table td {
+      border-bottom: 1px solid #E8E8E8;
+      border-right: 2px solid transparent;
+    }
+
+    .el-table td:first-child .cell .el-radio {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    .el-table td:first-child .cell {
+      text-align: center;
+    }
+  }
+
+  /**** 表格中的 input ****/
+  .el-input--medium .el-input__inner {
+    height: 28px;
+    line-height: 28px;
+    border-color: $borderColorInput;
+    color: $textColorBody;
+
+    &:focus {
+      border-color: $activeColor;
+    }
+  }
+
+  /**** 表格中的 tag ****/
+  .el-tag {
+    border: 1px solid $borderColorInput;
+
+    color: $textColorBody;
+    padding: 0 8px;
+    height: 22px;
+    line-height: 20px;
+
+    .el-icon-close {
+      color: $textColorBody;
+      transform: scale(.5);
+      font-size: 20px;
+      height: 20px;
+      width: 20px;
+      line-height: 20px;
+      right: -4px;
+      margin-left: -6px;
+
+      &:hover {
+        color: $hoverColor;
+        background-color: transparent;
+      }
+    }
+  }
+
+  .el-tag ~ .el-tag {
+    margin-left: 8px;
+  }
+
+  /**** 表格中的进度条 ****/
+  .el-progress__text {
+    height: 18px;
+    line-height: 18px;
+    font-size: $fontSizeBody !important;
+    color: $textColorBody;
+    margin-left: 8px;
+  }
+}
+
+.el-input--medium .el-input__inner {
+  &:focus {
+    border-color: $activeColor;
+  }
+}
+
+
+/**** checkbox 表格中的 checkbox 和其它地方的 checkbox 样式一样 ****/
+.el-checkbox {
+  .el-checkbox__input {
+    .el-checkbox__inner {
+      border-color: rgba(0, 0, 0, 0.15);
+    }
+
+    &:hover {
+      .el-checkbox__inner {
+        border-color: $hoverColor;
+      }
+    }
+  }
+
+  .el-checkbox__input.is-checked {
+    .el-checkbox__inner {
+      background-color: $activeColor;
+      border-color: $activeColor;
+    }
+
+    & + .el-checkbox__label {
+      color: #606266;
+      /*color: $activeColor;*/
+    }
+  }
+
+  .el-checkbox__input.is-indeterminate {
+    .el-checkbox__inner {
+      background-color: $activeColor;
+      border-color: $activeColor;
+    }
+  }
+
+  .el-checkbox__label {
+    color: #606266;
+
+
+    height: 14px;
+    line-height: 14px;
+
+    &:hover {
+      color: $hoverColor;
+    }
+  }
+}
+
+/**** radio ****/
+.el-radio {
+  .el-radio__input {
+    .el-radio__inner {
+      border-color: rgba(0, 0, 0, 0.15);
+    }
+
+    &:hover {
+      .el-radio__inner {
+        border-color: $hoverColor;
+      }
+    }
+  }
+
+  .el-radio__input.is-checked {
+    .el-radio__inner {
+      background-color: $activeColor;
+      border-color: $activeColor;
+    }
+  }
+}
+
+/**** Message ****/
+.el-message {
+  min-width: 604px;
+  padding: 10px 15px 10px 20px;
+  height: 40px;
+  top: 84px;
+
+  &.el-message--success {
+    border-color: #B7EB8F;
+    background-color: #F6FFED;
+
+    .el-icon-success {
+      color: #52C41A;
+    }
+
+    .el-message__content {
+      color: $textColorBody;
+    }
+  }
+}
+
+/**** MessageBox ****/
+.el-message-box {
+  width: 400px;
+  background: $whiteColor;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.06);
+  border-radius: 4px;
+  border: 1px solid $borderColorTable;
+  padding-bottom: 0;
+
+  .el-message-box__header {
+    padding: 15px 15px 10px 25px;
+
+    .el-message-box__title {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+      font-weight: $fontWeightBold;
+      color: rgba(0, 0, 0, 0.85);
+    }
+
+    .el-message-box__headerbtn {
+      width: 9px;
+      height: 9px;
+      font-size: 9px;
+
+      .el-message-box__close {
+        color: rgba(0, 0, 0, 0.45);
+        width: 9px;
+        height: 9px;
+        font-size: 9px;
+        font-weight: $fontWeightBold;
+      }
+
+      &:hover {
+        .el-message-box__close {
+          color: $hoverColor;
+        }
+      }
+    }
+  }
+
+  .el-message-box__content {
+    padding: 10px 15px 12px 25px;
+
+    .el-message-box__status.el-icon-warning {
+      color: #FAAD14;
+    }
+
+    .el-message-box__message {
+      height: 24px;
+      line-height: 24px;
+
+
+      color: $textColorBody;
+    }
+  }
+
+  .el-message-box__btns {
+    padding: 12px 15px 12px 0;
+
+    .el-button {
+      padding-left: 12px;
+      padding-right: 12px;
+      font-size: $fontSizeCaption;
+    }
+
+    .el-button--default {
+      border: 1px solid $borderColorBox;
+
+      color: $textColorBody;
+    }
+
+    .el-button--primary {
+      background-color: $activeColor;
+      border-radius: 3px;
+      color: $whiteColor;
+    }
+  }
+}
+
+.el-message--info .el-message__content {
+  color: $textColorBody;
+}
+
+.el-message--error .el-message__content {
+  color: $textColorBody;
+}
+
+.el-message__closeBtn {
+  color: #00000073
+}
+
+.el-tooltip__popper {
+  color: $textColorBody;
+  font-size: $fontSizeBody;
+  font-weight: $fontWeight;
+  line-height: 20px;
+  padding: 5px 10px;
+
+  &.is-light {
+    border-color: $borderColor;
+  }
+}
+
+.el-tooltip__popper.is-light[x-placement^=top] .popper__arrow {
+  border-top-color: $borderColor;
+}
+
+.el-tooltip__popper.is-light[x-placement^=top] .popper__arrow::after {
+  border-top-color: #FFF;
+}
+
+/**** DropDown ****/
+
+.right-menu-drop-down.el-dropdown-menu {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  box-shadow: 0 2px 12px 0 #0000000F;
+  border: 1px solid $borderColorTable;
+
+  .el-dropdown-menu__item {
+    width: 120px;
+    height: 34px;
+    line-height: 34px;
+    padding-left: 20px;
+    color: $textColorBody;
+
+    &:hover {
+      background-color: #00D7FF26;
+      color: $textColorBody;
+    }
+  }
+}
+
+/**** Breadcrumb ****/
+.breadcrumb-wrapper {
+  .el-breadcrumb__inner {
+    color: $textColorBody;
+  }
+
+  .el-breadcrumb__inner.is-link {
+    color: $textColorCaption;
+    font-weight: $fontWeight;
+  }
+
+  .el-breadcrumb__separator {
+    color: $textColorCaption;
+    margin: 0 8px;
+  }
+}
+
+/**** Dialog ****/
+
+.el-dialog__header {
+  position: relative;
+
+  &::after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.09);
+  }
+}
+
+.right-menu-dialog.el-dialog__wrapper {
+  .el-dialog {
+    width: 580px;
+    border-radius: 4px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.06);
+    border: 1px solid $borderColorTable;
+  }
+
+  .el-dialog__header {
+    height: 55px;
+    padding: 16px 24px;
+  }
+
+  .el-dialog__title {
+    height: 24px;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: $fontWeightBold;
+    color: $textColorTitle;
+  }
+
+  .el-dialog__body {
+    padding: 24px 24px 36px 24px;
+    color: $textColorBody;
+  }
+
+  .el-dialog__headerbtn .el-dialog__close {
+    color: rgba(0, 0, 0, 0.45);
+  }
+
+  .el-dialog__headerbtn:hover {
+    .el-dialog__close {
+      color: $hoverColor;
+    }
+  }
+}
+
+.right-menu-dialog.logout-dialog {
+  .el-dialog {
+    width: 360px;
+    padding: 30px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.06);
+    border: 1px solid $borderColorTable;
+  }
+
+  .el-dialog__header {
+    display: none;
+
+    &::after {
+      content: none;
+    }
+  }
+
+  .el-dialog__body {
+    padding: 0;
+    height: 24px;
+    line-height: 24px;
+    margin-bottom: 20px;
+
+
+    color: $textColorBody;
+    text-align: center;
+  }
+
+  .el-dialog__footer {
+    padding: 0;
+    text-align: center;
+  }
+}
+
+
+/**** 侧边栏 ****/
+$subMenuBg: #2F333E;
+
+.menu-wrapper {
+
+  .submenu-title-noDropdown {
+    &:hover {
+      background-color: $focusColorMenu !important;
+      color: $whiteColor !important;
+    }
+  }
+
+  .el-menu-item, .el-submenu__title {
+    height: 40px;
+    line-height: 40px;
+    padding-left: 24px !important;
+  }
+
+  .el-submenu .el-menu-item {
+    min-width: $sideBarWidth !important;
+    background-color: $subMenuBg !important;
+    padding-left: 50px !important;
+
+    &:hover {
+      background-color: $focusColorMenu !important;
+      color: $whiteColor !important;
+      font-weight: $fontWeightBold;
+    }
+  }
+
+  .el-menu-item.is-active, .el-submenu .el-menu-item.is-active {
+    background-color: $activeColorMenu !important;
+  }
+
+  .el-submenu__title:hover {
+    background-color: $focusColorMenu !important;
+    color: $whiteColor !important;
+    font-weight: $fontWeightBold;
+  }
+
+  .is-active > .el-submenu__title {
+    color: $whiteColor !important;
+    font-weight: $fontWeightBold;
+  }
+
+  /* 暂无匹配元素 */
+  /*.nest-menu .el-submenu > .el-submenu__title  {
+    min-width: $sideBarWidth;
+    background-color: $subMenuBg;
+
+    &:hover {
+      background-color: $focusColor;
+    }
+  }*/
+
+  .svg-icon {
+    margin-right: 12px;
+  }
+
+  .el-submenu__icon-arrow {
+    right: 16px;
+  }
+
+  .el-submenu__title {
+    .el-submenu__icon-arrow {
+      color: $textWhiteColor;
+    }
+  }
+
+  .el-submenu__title:hover {
+    .el-submenu__icon-arrow {
+      color: $whiteColor;
+      font-weight: $fontWeightBold;
+    }
+  }
+}
+
+
+/**** 滚动条 ****/
+.scrollbar-wrapper {
+  overflow-x: hidden;
+
+  .el-scrollbar__view {
+    height: 100%;
+  }
+
+  .el-menu {
+    border: none;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+// when menu collapsed
+.el-menu--vertical {
+  & > .el-menu {
+    .svg-icon {
+      margin-right: 16px;
+    }
+  }
+
+  .nest-menu .el-submenu > .el-submenu__title,
+  .el-menu-item {
+    &:hover {
+      // you can use $focusColor
+      background-color: $focusColorMenu !important;
+    }
+  }
+
+  // the scroll bar appears when the subMenu is too long
+  > .el-menu--popup {
+    max-height: 100vh;
+    overflow-y: auto;
+
+    &::-webkit-scrollbar-track-piece {
+      background: #d3dce6;
+    }
+
+    &::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: #99a9bf;
+      border-radius: 20px;
+    }
+  }
+}
+
+
+
+

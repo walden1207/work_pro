@@ -1,0 +1,136 @@
+.choice-container {
+  position: relative;
+  padding: 12px 0 10px 24px;
+
+  .close-button {
+    position: absolute;
+    top: -36px;
+    right: 20px;
+    padding: 0;
+    background: 0 0;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    font-size: 16px;
+
+    .el-dialog__close {
+      color: rgba(0, 0, 0, 0.45);
+    }
+
+    &:hover {
+      .el-dialog__cl {
+        color: $hoverColor;
+      }
+    }
+  }
+}
+
+.choice-main {
+  padding-right: 24px;
+}
+//
+//@media screen and (min-width: 1920px) {
+//  .choice-main {
+//    max-height: 610px;
+//  }
+//}
+
+.choice-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+
+  .choice-panel {
+    position: relative;
+    width: 100%;
+    padding: 24px 24px 12px 24px;
+    border-radius: 4px;
+    border: 1px solid $borderColorInput;
+
+    .choice-head {
+      color: $textColorBody;
+      font-weight: $fontWeightBolder;
+    }
+
+    .choice-mask {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 2;
+      background-color: transparent;
+    }
+  }
+
+  .choice-panel.active {
+    border-color: $activeColor;
+  }
+
+  .choice-panel.protocol {
+    max-height: 140px;
+    overflow-y: auto;
+
+    .choice-body {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-top: 4px;
+
+      .choice-item {
+        height: 38px;
+        line-height: 38px;
+        width: 33%;
+        padding-right: 20px;
+
+        &:nth-child(3n) {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+
+  .choice-panel.template {
+    width: calc(100% - 38px);
+
+    .choice-body {
+      margin-top: 15px;
+    }
+  }
+
+  .no-protocol {
+    width: 100%;
+    line-height: 60px;
+    font-size: $fontSizeCaption;
+    text-align: center;
+    color: $textColorBody;
+  }
+}
+
+.footer-wrapper {
+  text-align: right;
+  padding-right: 24px;
+
+  .button-plain, .button {
+    font-size: $fontSizeBody;
+    width: 70px;
+    padding: 0 15px;
+    text-align: center;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 4px;
+  }
+
+  .button-plain {
+    margin-right: 10px;
+    border: 1px solid $borderColorBox;
+  }
+
+  .button {
+    border: 1px solid transparent;
+  }
+
+  .next-button {
+    position: relative;
+  }
+}

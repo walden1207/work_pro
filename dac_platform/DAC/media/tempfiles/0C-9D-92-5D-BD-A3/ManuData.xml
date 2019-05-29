@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ManuData>
+  <MACHINE-1>
+    <_1 Description="刀具信息" Title="刀具信息" configValue="刀具信息1111" nodeClass="number" />
+  </MACHINE-1>
+  <MACHINE-2>
+    <_1 Description="主轴名称" Title="5" configValue="" nodeClass="string" />
+    <_2 Description="主轴负载" Title="7" configValue="" nodeClass="number" />
+    <_3 Description="主轴转速" Title="6" configValue="" nodeClass="number" />
+    <_4 Description="产品计件1 " Title="35" configValue="" nodeClass="number" />
+    <_5 Description="产品计件2" Title="36" configValue="" nodeClass="number" />
+    <_6 Description="关键工序号" Title="34" configValue="" nodeClass="number" />
+    <_7 Description="几何X轴坐标" Title="14" configValue="" nodeClass="number" />
+    <_8 Description="几何Y轴坐标" Title="15" configValue="" nodeClass="number" />
+    <_9 Description="几何Z轴坐标" Title="16" configValue="" nodeClass="number" />
+    <_10 Description="出厂时长" Title="2" configValue="" nodeClass="number" />
+    <_11 Description="切削时长" Title="21" configValue="" nodeClass="number" />
+    <_12 Description="剩余移动量" Title="17" configValue="" nodeClass="number" />
+    <_13 Description="开机时长" Title="1" configValue="" nodeClass="number" />
+    <_14 Description="当前刀具信息" Title="37" configValue="" nodeClass="number" />
+    <_15 Description="当前程序" Title="18" configValue="" nodeClass="string" />
+    <_16 Description="循环时长" Title="20" configValue="" nodeClass="number" />
+    <_17 Description="总工件数" Title="22" configValue="" nodeClass="number" />
+    <_18 Description="扭矩值8" Title="45" configValue="" nodeClass="number" />
+    <_19 Description="报警时间" Title="32" configValue="" nodeClass="string" />
+    <_20 Description="报警编号" Title="23" configValue="" nodeClass="number" />
+    <_21 Description="操作时长" Title="19" configValue="" nodeClass="number" />
+    <_22 Description="操作模式" Title="3" configValue="" nodeClass="string" />
+    <_23 Description="最新报警号" Title="33" configValue="" nodeClass="number" />
+    <_24 Description="机床B轴坐标" Title="27" configValue="" nodeClass="number" />
+    <_25 Description="机床W轴坐标" Title="26" configValue="" nodeClass="number" />
+    <_26 Description="机床X轴坐标" Title="11" configValue="" nodeClass="number" />
+    <_27 Description="机床Y轴坐标" Title="12" configValue="" nodeClass="number" />
+    <_28 Description="机床Z轴坐标" Title="13" configValue="" nodeClass="number" />
+    <_29 Description="生产节拍" Title="68" configValue="" nodeClass="number" />
+    <_30 Description="转速S倍率值" Title="9" configValue="" nodeClass="number" />
+    <_31 Description="运行状态" Title="4" configValue="" nodeClass="string" />
+    <_32 Description="进给F倍率值" Title="10" configValue="" nodeClass="number" />
+    <_33 Description="进给速度" Title="8" configValue="" nodeClass="number" />
+  </MACHINE-2>
+</ManuData>

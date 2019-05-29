@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ManuData>
+	<MACHINE-1>
+		<_1 Title="运行状态" Description="运行状态" nodeClass="char" configValue="100" />
+		<_2 Title="报警状态" Description="报警状态" nodeClass="char" configValue="100" operationUnit=""/>
+		<_3 Title="自动运行信号" Description="自动运行信号" nodeClass="char" configValue="100" operationUnit=""/>
+		<_4 Title="主轴名称" Description="主轴名称" nodeClass="float" configValue="F100" operationUnit=""/>
+		<_5 Title="进给速度" Description="进给速度" nodeClass="float" configValue="100" />
+		<_6 Title="报警履历" Description="报警履历" nodeClass="float" configValue="100" />
+	</MACHINE-1>
+</ManuData>

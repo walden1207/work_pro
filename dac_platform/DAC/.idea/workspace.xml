@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="d03664d4-ade7-4183-bd97-b26de5de65c6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apps/User/migrations/0001_initial.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DAC.iml" afterPath="$PROJECT_DIR$/.idea/DAC.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DAC/settings.py" afterPath="$PROJECT_DIR$/DAC/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/Tm/MatterAnalysis/adminx.py" afterPath="$PROJECT_DIR$/apps/Tm/MatterAnalysis/adminx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/Tm/MatterAnalysis/apps.py" afterPath="$PROJECT_DIR$/apps/Tm/MatterAnalysis/apps.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/Tm/GateManage/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="479" column="12" lean-forward="false" selection-start-line="479" selection-start-column="12" selection-end-line="479" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#33#51#0" expanded="true" />
+                <marker date="1557389868286" expanded="false" signature="5541:6400" ph="..." />
+                <marker date="1557389868286" expanded="false" signature="6451:8588" ph="..." />
+                <marker date="1557389868286" expanded="false" signature="8620:9108" ph="..." />
+                <marker date="1557389868286" expanded="false" signature="9148:9807" ph="..." />
+                <marker date="1557389868286" expanded="false" signature="10562:11481" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminx.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/adminx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="168" column="76" lean-forward="false" selection-start-line="168" selection-start-column="76" selection-end-line="168" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="http.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/views/decorators/http.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/core/handlers/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/Public/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-74">
+              <caret line="325" column="4" lean-forward="false" selection-start-line="325" selection-start-column="4" selection-end-line="325" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/http/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8250">
+              <caret line="293" column="8" lean-forward="false" selection-start-line="293" selection-start-column="8" selection-end-line="293" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-210">
+              <caret line="484" column="31" lean-forward="false" selection-start-line="484" selection-start-column="31" selection-end-line="484" selection-end-column="31" />
+              <folding>
+                <marker date="1557386757471" expanded="true" signature="14784:18058" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="17919:17965" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="18103:18659" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="18108:18144" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="18305:18631" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="18323:18480" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="18704:18866" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="18709:18750" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="18910:19554" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="18915:18949" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="19080:19452" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="19599:19961" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="19604:19641" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="19726:19869" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="19754:19830" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="20004:23500" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="20009:20044" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="20163:20190" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="20205:20329" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="20549:20603" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="20885:23476" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="21075:21152" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="21222:22253" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="21263:22106" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="21918:22041" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="22267:23476" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="22321:23329" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="22358:23029" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="23068:23329" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="23117:23260" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="23165:23260" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="23546:23941" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="23551:23606" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="23665:23849" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="23984:24366" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="23989:24044" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="24053:24258" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="24407:24922" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="24412:24453" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="24587:24837" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="24966:25609" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="24971:25021" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="25110:25585" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="25363:25524" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="25654:26150" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="25659:25693" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="25708:26084" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="26203:28285" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="26208:26252" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="26577:26775" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="26608:26775" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="27050:27549" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="27298:27549" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="27332:27549" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="27590:28261" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="27608:27998" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="28336:29031" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="29100:30427" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="29105:29258" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="29885:30405" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="30056:30134" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="30167:30260" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="30231:30260" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="30296:30405" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="30497:31196" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="30502:30649" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1557386757471" expanded="true" signature="30722:31113" ph="..." />
+                <marker date="1557386757471" expanded="true" signature="31005:31113" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/Tm/GateManage/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+              <folding>
+                <element signature="e#33#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PermissionsMixin</find>
+      <find>__dict</find>
+      <find>get_params</find>
+      <find>__dict__</find>
+      <find>token</find>
+      <find>id_list</find>
+      <find>compID</find>
+      <find>send_mqtt</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_HOME_DIR$/helpers/packaging_tool.py" />
+        <option value="$PROJECT_DIR$/apps/Public/config.py" />
+        <option value="$PROJECT_DIR$/apps/Tm/MatterAnalysis/models.py" />
+        <option value="$USER_HOME$/TM/Lib/site-packages/django/utils/autoreload.py" />
+        <option value="$PROJECT_DIR$/DAC/settings.py" />
+        <option value="$PROJECT_DIR$/apps/Tm/MatterAnalysis/apps.py" />
+        <option value="$PROJECT_DIR$/apps/Tm/GateManage/urls.py" />
+        <option value="$PROJECT_DIR$/apps/Tm/MatterAnalysis/views.py" />
+        <option value="$PROJECT_DIR$/apps/Tm/GateManage/views.py" />
+        <option value="$PROJECT_DIR$/apps/Tm/MatterAnalysis/adminx.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MatterAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../coding-78/MxOnlie" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.DAC">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="DAC" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DAC" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="DAC.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\walde\TM\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DAC" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8030" />
+      <option name="host" value="192.168.6.116" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.DAC" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\walde\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Branch\DAC\dac_platform\DAC" />
+          <option name="myCopyRoot" value="E:\Branch\DAC\dac_platform\DAC" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Branch\DAC\dac_platform\DAC" />
+          <option name="myCopyRoot" value="E:\Branch\DAC\dac_platform\DAC" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d03664d4-ade7-4183-bd97-b26de5de65c6" name="Default" comment="" />
+      <created>1554356164887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554356164887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50446427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1401919" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Reviews" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="News Feed" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3404018" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25241676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="41" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/utils/autoreload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5760">
+          <caret line="203" column="1" lean-forward="false" selection-start-line="203" selection-start-column="1" selection-end-line="203" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAC/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4470">
+          <caret line="151" column="1" lean-forward="false" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
+          <folding>
+            <element signature="e#304#313#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="58" column="35" lean-forward="true" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+          <folding>
+            <marker date="1557386757471" expanded="true" signature="14784:18058" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="17919:17965" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18103:18659" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18108:18144" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="18305:18631" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18323:18480" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18704:18866" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18709:18750" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="18910:19554" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18915:18949" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="19080:19452" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="19599:19961" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="19604:19641" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="19726:19869" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="19754:19830" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="20004:23500" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="20009:20044" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="20163:20190" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="20205:20329" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="20549:20603" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="20885:23476" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21075:21152" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21222:22253" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21263:22106" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21918:22041" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="22267:23476" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="22321:23329" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="22358:23029" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23068:23329" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23117:23260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23165:23260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23546:23941" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23551:23606" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="23665:23849" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23984:24366" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23989:24044" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="24053:24258" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24407:24922" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24412:24453" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="24587:24837" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24966:25609" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24971:25021" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="25110:25585" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="25363:25524" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="25654:26150" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="25659:25693" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="25708:26084" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="26203:28285" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="26208:26252" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="26577:26775" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="26608:26775" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27050:27549" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27298:27549" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27332:27549" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27590:28261" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27608:27998" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="28336:29031" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="29100:30427" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="29105:29258" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="29885:30405" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30056:30134" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30167:30260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30231:30260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30296:30405" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30497:31196" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30502:30649" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="30722:31113" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="31005:31113" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/restful.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAC/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5400">
+          <caret line="180" column="23" lean-forward="true" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="23" />
+          <folding>
+            <element signature="e#304#313#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/restful.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAC/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3363">
+          <caret line="180" column="23" lean-forward="true" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="23" />
+          <folding>
+            <element signature="e#304#313#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/packaging_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/packaging_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="111" column="22" lean-forward="false" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/restful.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/User/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4258">
+          <caret line="202" column="6" lean-forward="false" selection-start-line="202" selection-start-column="6" selection-end-line="202" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/GateManage/ProtocolConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAC/consumers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/tempfiles/0C-9D-92-5D-BD-A3/Config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1145">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/tempfiles/0C-9D-92-5D-BD-A3/ManuData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAC/routing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/ChannelsMqtt/mqtt_worker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/GateManage/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/xadmin/sites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAC/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#304#313#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="200" column="21" lean-forward="false" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/template/defaulttags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3930">
+          <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/GateAccess/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/User/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/db/models/sql/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1778" column="0" lean-forward="false" selection-start-line="1778" selection-start-column="0" selection-end-line="1778" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/db/models/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="998">
+          <caret line="551" column="51" lean-forward="false" selection-start-line="551" selection-start-column="51" selection-end-line="551" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="688" column="0" lean-forward="false" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/db/models/sql/subqueries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/upgradefiles/xugong1.png" />
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/utils/datastructures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="141" column="8" lean-forward="false" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/core/handlers/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3390">
+          <caret line="124" column="29" lean-forward="false" selection-start-line="124" selection-start-column="29" selection-end-line="124" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/utils/autoreload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5760">
+          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/http/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8250">
+          <caret line="293" column="8" lean-forward="false" selection-start-line="293" selection-start-column="8" selection-end-line="293" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="484" column="31" lean-forward="false" selection-start-line="484" selection-start-column="31" selection-end-line="484" selection-end-column="31" />
+          <folding>
+            <marker date="1557386757471" expanded="true" signature="14784:18058" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="17919:17965" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18103:18659" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18108:18144" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="18305:18631" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18323:18480" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18704:18866" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18709:18750" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="18910:19554" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="18915:18949" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="19080:19452" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="19599:19961" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="19604:19641" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="19726:19869" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="19754:19830" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="20004:23500" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="20009:20044" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="20163:20190" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="20205:20329" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="20549:20603" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="20885:23476" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21075:21152" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21222:22253" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21263:22106" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="21918:22041" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="22267:23476" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="22321:23329" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="22358:23029" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23068:23329" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23117:23260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23165:23260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23546:23941" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23551:23606" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="23665:23849" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23984:24366" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="23989:24044" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="24053:24258" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24407:24922" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24412:24453" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="24587:24837" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24966:25609" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="24971:25021" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="25110:25585" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="25363:25524" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="25654:26150" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="25659:25693" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="25708:26084" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="26203:28285" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="26208:26252" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="26577:26775" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="26608:26775" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27050:27549" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27298:27549" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27332:27549" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27590:28261" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="27608:27998" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="28336:29031" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="29100:30427" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="29105:29258" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="29885:30405" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30056:30134" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30167:30260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30231:30260" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30296:30405" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30497:31196" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="30502:30649" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1557386757471" expanded="true" signature="30722:31113" ph="..." />
+            <marker date="1557386757471" expanded="true" signature="31005:31113" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/GateManage/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+          <folding>
+            <element signature="e#33#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Public/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="325" column="4" lean-forward="false" selection-start-line="325" selection-start-column="4" selection-end-line="325" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/views/decorators/http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TM/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/GateManage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="479" column="12" lean-forward="false" selection-start-line="479" selection-start-column="12" selection-end-line="479" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#33#51#0" expanded="true" />
+            <marker date="1557389868286" expanded="false" signature="5541:6400" ph="..." />
+            <marker date="1557389868286" expanded="false" signature="6451:8588" ph="..." />
+            <marker date="1557389868286" expanded="false" signature="8620:9108" ph="..." />
+            <marker date="1557389868286" expanded="false" signature="9148:9807" ph="..." />
+            <marker date="1557389868286" expanded="false" signature="10562:11481" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/Tm/MatterAnalysis/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="168" column="76" lean-forward="false" selection-start-line="168" selection-start-column="76" selection-end-line="168" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

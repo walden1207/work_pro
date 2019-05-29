@@ -1,0 +1,23 @@
+.footer-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-left: 24px;
+  padding-right: 24px;
+  z-index: 20;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 2px;
+    background-color: #E1E1E1;
+  }
+}
+
