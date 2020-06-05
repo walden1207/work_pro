@@ -14,7 +14,7 @@ constantly==15.1.0
 daphne==2.2.5
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==2.1.7
+Django==2.2.13
 django-apscheduler==0.3.0
 django-cors-headers==2.5.0
 django-crispy-forms==1.7.2
